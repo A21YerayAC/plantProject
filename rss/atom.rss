@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+ <title>A plant</title>
+ <subtitle>The rose</subtitle>
+ <updated>2022-11-23T09:25:00Z</updated>
+ <entry>
+ <author>
+ <name>Yeray Arosa</name>
+ </author>
+ <title>The rose</title>
+ <updated>2022-06-21T06:08:53Z</updated>
+ <published>2022-06-21T06:07:57Z</published>
+ <category>Plants</category>
+ <summary>Article about the rose</summary>
+ </entry>
+</feed>
